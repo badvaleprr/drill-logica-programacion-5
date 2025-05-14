@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background: linear-gradient(to right, #f8c8dc, #c8f0f8); /* Rosa pastel y celeste pastel */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.contenedor {
+    background-color: #ffffffcc; /* blanco semitransparente */
+    border: 2px solid #f8c8dc;
+    padding: 30px;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 0px 0px 15px rgba(200, 200, 200, 0.5);
+}
+
+h1 {
+    color: #e578b2; /* rosa pastel oscuro */
+}
+
+p {
+    color: #4b9cb3; /* celeste pastel más fuerte */
+    font-size: 1.2rem;
+}
